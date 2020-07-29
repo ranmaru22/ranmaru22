@@ -26,10 +26,6 @@ After working in boring office jobs for too long, I decided to change my directi
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 
-<br />
-<br />
+## Stats
 
 ![ranmaru22's github stats](https://github-readme-stats.vercel.app/api?username=ranmaru22&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranmaru22)
-
