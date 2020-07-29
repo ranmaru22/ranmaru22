@@ -29,7 +29,7 @@ After working in boring office jobs for too long, I decided to change my directi
 <br />
 <br />
 
-[![ranmaru22's github stats](https://github-readme-stats.vercel.app/api?username= ranmaru22&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)]
+[![ranmaru22's github stats](https://github-readme-stats.vercel.app/api?username=ranmaru22&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= ranmaru22)(https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranmaru22)(https://github.com/anuraghazra/github-readme-stats)]
 
