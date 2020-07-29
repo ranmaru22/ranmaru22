@@ -28,6 +28,6 @@ After working in boring office jobs for too long, I decided to change my directi
 
 ---
 
-[ranmaru22's github stats](https://github-readme-stats.vercel.app/api?username=ranmaru22&show_icons=true)
+[![ranmaru22's github stats](https://github-readme-stats.vercel.app/api?username=ranmaru22&show_icons=true)]
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
