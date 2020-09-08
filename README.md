@@ -5,7 +5,7 @@ I'm a self-taught, ever-learning developer with a passion for code and everythin
 After working in boring office jobs for too long, I decided to change my direction and learn to code professionally too instead of just treating it as a hobby.
 
 - I am currently a full-stack web developer most familiar with the MERN stack.
-- My favorite language is Rust.
+- My favourite language is Rust.
 - I am also constantly learning new things because there's always something cool around the corner.
 - I am a strong supporter of open source software and want to contribute more to FOSS in the future.
 - My other hobbies include reading (mostly fantasy and science-fiction) and cooking. 😶
