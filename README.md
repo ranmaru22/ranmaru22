@@ -2,9 +2,7 @@
 
 I'm a self-taught, ever-learning developer with a passion for code and everything interesting.
 
-After working in boring office jobs for too long, I decided to change my direction and learn to code professionally too instead of just treating it as a hobby.
-
-- I am currently a full-stack web developer most familiar with the MERN stack.
+- I am currently a front-end developer most familiar with the MERN stack.
 - My favourite language is Rust.
 - I am also constantly learning new things because there's always something cool around the corner.
 - I am a strong supporter of open source software and want to contribute more to FOSS in the future.
@@ -21,8 +19,8 @@ After working in boring office jobs for too long, I decided to change my directi
 <img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="GraphQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GraphQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
@@ -33,4 +31,4 @@ After working in boring office jobs for too long, I decided to change my directi
 
 ## Stats
 
-![ranmaru22's github stats](https://github-readme-stats.vercel.app/api?username=ranmaru22&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranmaru22&langs_count=5) ![ranmaru22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranmaru22&show_icons=true&line_height=40)
