@@ -10,25 +10,25 @@ I'm a self-taught, ever-learning developer with a passion for code and everythin
 
 ## Languages and tools
 
-<img align="left" alt="vim" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
-<img align="left" alt="Rust" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/rust/rust.png" />
+![](https://img.shields.io/badge/GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=505050)
+![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=apple&logoColor=white&color=505050)
+![](https://img.shields.io/badge/vim-informational?style=flat&logo=vim&logoColor=white&color=505050)
+![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white&color=505050)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=505050)
 
-<br />
-<br />
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=505050)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=505050)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=white&color=505050)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=505050)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=505050)
+![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=505050)
+![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=505050)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=505050)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=505050)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=505050)
+![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=505050)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=505050)
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranmaru22&langs_count=5) ![ranmaru22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranmaru22&show_icons=true&line_height=40)
+![ranmaru22's github stats](https://github-readme-stats.vercel.app/api?username=ranmaru22&show_icons=true)
