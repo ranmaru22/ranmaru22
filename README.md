@@ -23,7 +23,7 @@ I'm a self-taught, ever-learning developer with a passion for code and everythin
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=505050)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=505050)
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=505050)
