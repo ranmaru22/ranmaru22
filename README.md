@@ -12,7 +12,7 @@ I'm a self-taught, ever-learning developer with a passion for code and everythin
 
 ![](https://img.shields.io/badge/GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=apple&logoColor=white&color=505050)
-![](https://img.shields.io/badge/vim-informational?style=flat&logo=vim&logoColor=white&color=505050)
+![](https://img.shields.io/badge/emacs-informational?style=flat&logo=spacemacs&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=505050)
 
