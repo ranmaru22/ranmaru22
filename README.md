@@ -12,22 +12,21 @@ I'm a self-taught, ever-learning developer with a passion for code and everythin
 
 ![](https://img.shields.io/badge/GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=apple&logoColor=white&color=505050)
-![](https://img.shields.io/badge/emacs-informational?style=flat&logo=spacemacs&logoColor=white&color=505050)
+![](https://img.shields.io/badge/Vim-informational?style=flat&logo=vim&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/git-informational?style=flat&logo=git&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=505050)
 
+![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=505050)
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=505050)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=505050)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=white&color=505050)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=505050)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=505050)
-![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=505050)
-![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=505050)
-![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=505050)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=505050)
+![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=505050)
 
 ## Stats
 
