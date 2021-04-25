@@ -7,7 +7,6 @@
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=505050)
 
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=505050)
-![](https://img.shields.io/badge/Haskell-informational?style=flat&logo=haskell&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=505050)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=505050)
