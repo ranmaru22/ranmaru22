@@ -1,2 +1,1 @@
-[![](https://github-readme-stats.vercel.app/api?username=ranmaru22&count_private=true&show_icons=true#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=ranmaru22&count_private=true&show_icons=true&theme=swift#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=ranmaru22&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=ranmaru22&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
+# I moved to [Codeberg](https://codeberg.org/ranmaru22) because I'm really sick of GitHub's bullshit.
